@@ -1,0 +1,10 @@
+{
+  "name": "ai-companion",
+  "version": "1.0.0",
+  "main": "controller.js",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "obs-websocket-js": "^5.0.2",
+    "ws": "^8.13.0"
+  }
+}
